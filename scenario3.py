@@ -5,7 +5,7 @@
 # Store 1 receives an additional ₹5000 bonus revenue each day.
 # Convert the final revenue into a single row format.
 
-# ✅ Answer:
+# Answer:
 import numpy as np
 
 revenue = np.array([
